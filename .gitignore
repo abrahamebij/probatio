@@ -10,8 +10,12 @@
 !.yarn/releases
 !.yarn/versions
 
-# testing
+# testing & hardhat
 /coverage
+/artifacts
+/cache
+/cache_hardhat
+/typechain-types
 
 # next.js
 /.next/
